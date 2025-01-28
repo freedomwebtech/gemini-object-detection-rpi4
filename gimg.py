@@ -5,7 +5,7 @@ from llama_index.core.llms import ChatMessage, ImageBlock,MessageRole, TextBlock
 img_path="2.jpg"
 
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyD3_htyx3w5pkKH616Ao-CgMAiDXgulgIw"
+os.environ["GOOGLE_API_KEY"] = ""
 
 
 
